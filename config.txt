@@ -1,0 +1,19 @@
+# Any parameter can be modified.
+#
+# Blocksize in bytes
+   blockSize   =  100
+#
+# Size in block of the iNode bit map
+# iNodeBMSize = 1
+#
+# Size in block of the data bit map
+# dataBMSize = 1	
+#
+# Size in blocks of the iNode table
+# iNodeTabSize = 10
+#
+# Number of data pointers in each iNode
+# directCnt = 5
+#
+# paramDebug = 1 (Yes) 0 (No)
+paramDebug = 0
